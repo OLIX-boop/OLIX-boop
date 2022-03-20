@@ -1,5 +1,5 @@
-OLIX
->Welcome to my profile
+>OLIX
+**Welcome to my profile**
 
 I'm OLIX I'm a Fivem developer💻,
 - currently studing c++ and unreal engine.
