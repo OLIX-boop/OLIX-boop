@@ -49,7 +49,7 @@
 
 <h3 align="center">💌Support me</h3>
 <p align="center">
-  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RD94Q2KCD6GEW&source=url1" target="blank"><img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
+  <a href="https://www.paypal.com/donate/?hosted_button_id=ZTUKCUY7Y4ZL2" target="blank"><img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
   
 ---
   
