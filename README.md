@@ -50,10 +50,7 @@
 <h3 align="center">💌Support me</h3>
 <p align="center">
   <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RD94Q2KCD6GEW&source=url1" target="blank"><img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
-  <a href="https://www.patreon.com/zerofour" target="blank"><img align="center" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"/></a>
-  <a href="https://www.buymeacoffee.com/zerofour" target="_blank"><img align="center" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
-</p>
-
+  
 ---
   
 [![OLIX's most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OLIX-boop&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
