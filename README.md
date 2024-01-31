@@ -1,5 +1,5 @@
 # About Me:
-🛠️ I'm a Developer<br>📖 Love & Learn Coding<br>🎓 Student<br>🇮🇹 ITALY
+🛠️ I'm a Developer<br>📖 Love & Learn Coding<br>🎓 Student<br>🟩⬜🟥 ITALY
 
 # 🥅My goals
 * currently studing c++ & backend develoment.
