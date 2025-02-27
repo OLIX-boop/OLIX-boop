@@ -1,9 +1,10 @@
 # About Me:
 🛠️ I'm a Developer<br>📖 Love Coding<br>🎓 Student<br>🟩⬜🟥 ITALY
 
-# 🥅My goals
-* studing c++ & backend develoment.
-* work on a real project.
+# Recent project:
+OLIX REEF ECOMMERCE WEBSITE
+Avaible on: https://olixtests.online
+![Preview](https://private-user-images.githubusercontent.com/80951658/380451463-36a9b483-68f1-4808-b3c7-7f3650c5a321.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA2NTIwMzYsIm5iZiI6MTc0MDY1MTczNiwicGF0aCI6Ii84MDk1MTY1OC8zODA0NTE0NjMtMzZhOWI0ODMtNjhmMS00ODA4LWIzYzctN2YzNjUwYzVhMzIxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjI3VDEwMjIxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM2OTE5ZWE3Zjk4MzhhMzM5NmIwM2E5NWQyYzgwZGY1ZjFmNjA4YjcwZDc0MjIyMzJkNDEwMzUyOTQxZTMzNGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.czqUAIGcRm2AhjjLSRkLT7wMbDdY3kJVSXvNyj8VRqA)
 
 # PORFOLIO: work in progress
 
